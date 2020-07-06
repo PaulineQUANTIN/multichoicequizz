@@ -1,0 +1,58 @@
+[
+    {
+        "id" : 1,
+        "title": "Animaux",
+        "slug": "animaux",
+        "icon": "fas fa-paw",
+        "color": "categorie column is-one-third tile animals"
+    },
+    {
+        "id" : 2,
+        "title": "Histoire",
+        "slug": "histoire",
+        "icon": "fas fa-landmark",
+        "color": "categorie column is-one-third tile history"
+    },
+    {
+        "id" : 3,
+        "title": "Géographie",
+        "slug": "geograhie",
+        "icon": "fas fa-atlas",
+        "color": "categorie column is-one-third tile geography"
+    },
+    {
+        "id" : 4,
+        "title": "Sports",
+        "slug": "sports",
+        "icon": "fas fa-quidditch",
+        "color": "categorie column is-one-third tile sports"
+    },
+    {
+        "id" : 5,
+        "title": "Cinéma",
+        "slug": "cinema",
+        "icon": "fas fa-film",
+        "color": "categorie column is-one-third tile cinema"
+    },
+    {
+        "id" : 6,
+        "title": "Sciences et technologies",
+        "slug": "sciences-et-technologies",
+        "icon": "fas fa-microscope",
+        "color": "categorie column is-one-third tile sciences"
+    },
+    {
+        "id" : 7,
+        "title": "Arts",
+        "slug": "arts",
+        "icon": "fas fa-palette",
+        "color": "categorie column is-one-third tile arts"
+    },
+    {
+        "id" : 8,
+        "title": "Langue française",
+        "slug": "langue-francaise",
+        "icon": "fas fa-language",
+        "color": "categorie column is-one-third tile french"
+    }
+]

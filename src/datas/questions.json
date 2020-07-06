@@ -1,0 +1,422 @@
+[
+    {
+        "quizz-number": 1,
+        "id": 1,
+        "question": "Le béluga est un animal solitaire et fuit ses semblables sauf durant la période de reproduction.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 1,
+        "id": 2,
+        "question": "L’ours polaire est un père très protecteur.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 1,
+        "id": 3,
+        "question": "Les pattes du harfang sont recouvertes de plumes.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 1,
+        "id": 4,
+        "question": "Les manchots marchent jusqu’à 100 km pour atteindre leur lieu de reproduction.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 1,
+        "id": 5,
+        "question": "L’ours noir perd 10 % de son poids durant l’hiver.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 2,
+        "id": 6,
+        "question": "Les servals chassent en bandes extrêmement organisées.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 2,
+        "id": 7,
+        "question": "Un tigre adulte mange entre 1800 et 2500 kg de viande par an.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 2,
+        "id": 8,
+        "question": "Les lionnes ne chassent qu’en bande.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 2,
+        "id": 9,
+        "question": "Le jaguar vit en Amérique.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 2,
+        "id": 10,
+        "question": "Le lion est le seul félin à vivre en groupe.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 3,
+        "id": 11,
+        "question": "La sterne blanche pond son œuf sur une branche.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 3,
+        "id": 12,
+        "question": "Les yeux du hibou ne bougent pas.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 3,
+        "id": 13,
+        "question": "L’aigle est myope.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 3,
+        "id": 14,
+        "question": "Les kiwis détectent les vers à leur odeur.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 3,
+        "id": 15,
+        "question": "Certains fous des îles Galapagos ont les pieds bleus.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 4,
+        "id": 16,
+        "question": "De quelle mythologie est issue la légende arthurienne ?",
+        "answers": ["Mythologie balte", "Mythologie celtique", "Mythologie galloise", "Mythologie normande"],
+        "answer": "Mythologie celtique"
+    },
+    {
+        "quizz-number": 4,
+        "id": 17,
+        "question": "Quel était le but initial de ces chevaliers, regroupés autour de la Table ronde?",
+        "answers": ["Protéger le roi", "Protéger le pays", "Retrouver Morgane et la tuer", "Retrouver le Saint Graal"],
+        "answer": "Retrouver le Saint Graal"
+    },
+    {
+        "quizz-number": 4,
+        "id": 18,
+        "question": "Qui est le fils de Lancelot ?",
+        "answers": ["Gauvin", "Galaad", "Perceval", "Agravain"],
+        "answer": "Galaad"
+    },
+    {
+        "quizz-number": 4,
+        "id": 19,
+        "question": "Quel ancien chevalier de la Table ronde serait l'opposé de Lancelot sur le plan des valeurs ?",
+        "answers": ["Girflet", "Geraint", "Gaheris", "Méléagant"],
+        "answer": "Méléagant"
+    },
+    {
+        "quizz-number": 4,
+        "id": 20,
+        "question": "Qui est le fils d'Arthur et de Morgane, qui deviendra l'ennemi du roi ?",
+        "answers": ["Yvain", "Mordred", "Melehan", "Caradoc"],
+        "answer": "Mordred"
+    },
+    {
+        "quizz-number": 5,
+        "id": 21,
+        "question": "La cour royale française n’est devenue véritablement sédentaire qu’en 1682 avec la construction du château de Versailles.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 5,
+        "id": 22,
+        "question": "Napoléon Ier est mort d’un cancer de l’estomac le 5 mai 1821, sur l’île Sainte-Hélène.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 5,
+        "id": 23,
+        "question": "Depuis la mort de son père Henri d’Orléans, le 21 janvier 2019, Jean d’Orléans est le seul prétendant au trône de France.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 5,
+        "id": 24,
+        "question": "Louis XIV a régné sur la France pendant 72 ans, ce qui fait de lui le roi français ayant eu le plus long règne.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 5,
+        "id": 25,
+        "question": "Charlemagne, le premier roi des Francs, a régné sur son royaume de 768 à 814.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 6,
+        "id": 26,
+        "question": "Les pays baltes ne sont composés que de trois pays : l’Estonie, la Lettonie et la Lituanie.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 6,
+        "id": 27,
+        "question": "Enclavée à l’intérieur du territoire italien, Saint-Marin est la plus vieille république d’Europe.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 6,
+        "id": 28,
+        "question": "L’Albanie, la Croatie et le Monténégro font tous partie des Balkans.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 6,
+        "id": 29,
+        "question": "Berne est la capitale de la Suisse depuis plus de 170 ans.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 6,
+        "id": 30,
+        "question": "La Belgique compte deux langues officielles :  le français et le néerlandais.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 7,
+        "id": 31,
+        "question": "Honolulu, la capitale d’Hawaï, est la seule ville américaine à avoir un palais royal.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 7,
+        "id": 32,
+        "question": "Le nom Cheyenne, la capitale du Wyoming, signifie «grand chêne» en langue lakota.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 7,
+        "id": 33,
+        "question": "Austin est la capitale la plus populeuse des États-Unis.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 7,
+        "id": 34,
+        "question": "Philadelphie est la capitale de la Pennsylvanie.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 7,
+        "id": 35,
+        "question": "La capitale du Vermont comporte moins de 8 000 habitants.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 8,
+        "id": 36,
+        "question": "Nadia Comaneci, la première gymnaste à obtenir une note parfaite de 10, a aussi gagné une médaille de bronze en patinage artistique.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 8,
+        "id": 37,
+        "question": "Le « miracle sur glace » aux Jeux de Lake Placid de 1980 fait référence aux notes parfaites obtenues par 5 couples en patinage artistique.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 8,
+        "id": 38,
+        "question": "L’Australie est le seul pays de l’hémisphère Sud à avoir remporté une médaille d’or aux Jeux d’hiver.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 8,
+        "id": 39,
+        "question": "Les États-Unis sont la puissance dominante en biathlon (combinaison de tir et de ski de fond).",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 8,
+        "id": 40,
+        "question": "En 1968, les Canadiens ont gagné les médailles d’or au hockey sur glace et au hockey sur gazon.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 9,
+        "id": 41,
+        "question": "Dans le film «La Belle et la Bête», l’apparence de la Bête se fonde sur celle d’un loup.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 9,
+        "id": 42,
+        "question": "Les Aristochats, un film sur des chats qui seront enlevés puis abandonnés par un majordome avide, se déroule à Londres.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 9,
+        "id": 43,
+        "question": "Avant la réalisation de «Cendrillon», Disney était lourdement endetté, mais le succès du conte de fées a sauvé le destin de l’entreprise.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 9,
+        "id": 44,
+        "question": "«Le Roi Lion», le dessin animé classique relatant les aventures de Simba, devait à l’origine s’appeler «Le Roi de la jungle».",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 9,
+        "id": 45,
+        "question": "Dans le film «Mary Poppins», Walt Disney détestait la chanson «Feed the Birds».",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 10,
+        "id": 46,
+        "question": "Durant quelle guerre se déroule l'histoire ?",
+        "answers": ["La Première Guerre mondiale", "La guerre de Sécession", "La guerre du Vietnam"],
+        "answer": "La guerre de Sécession"
+    },
+    {
+        "quizz-number": 10,
+        "id": 47,
+        "question": "Qui dit à Tuco dans quel cimetière sont cachés les 200 000 $ ?",
+        "answers": ["Sentenza", "Blondin", "Bill Carson"],
+        "answer": "Bill Carson"
+    },
+    {
+        "quizz-number": 10,
+        "id": 48,
+        "question": "Complétez cette phrase de Tuco : «Le monde se divise en deux parties...",
+        "answers": ["Ceux qui ont un pistolet chargé et ceux qui creusent, et toi tu creuses", "Ceux qui ont de l'eau fraîche et ceux qui meurent, et toi tu meurs", "Ceux qui passent par la porte et ceux qui passent par la fenêtre"],
+        "answer": "Ceux qui passent par la porte et ceux qui passent par la fenêtre"
+    },
+    {
+        "quizz-number": 10,
+        "id": 49,
+        "question": "Qui a réalisé ce film ?",
+        "answers": ["Quentin Tarantino", "Sergio Leone", "Steven Spielberg"],
+        "answer": "Sergio Leone"
+    },
+    {
+        "quizz-number": 10,
+        "id": 50,
+        "question": "Qui a composé la bande originale du film ?",
+        "answers": ["Ennio Morricone", "John Williams", "Hans Zimmer"],
+        "answer": "Ennio Morricone"
+    },
+    {
+        "quizz-number": 11,
+        "id": 51,
+        "question": "Le film «Maman, j'ai râté l'avion» se passe à New York.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 11,
+        "id": 52,
+        "question": "Les chanteuses Pat Benatar, Debbie Harry, Joan Jett, Madonna et Janet Jackson ont été considérées pour le rôle de Rachel dans The Bodyguard (1992).",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 11,
+        "id": 53,
+        "question": "C’est Tim Allen qui fait la voix du cowboy Woody dans Toy Story.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 11,
+        "id": 54,
+        "question": "I Don’t Wanna Miss a Thing, la chanson thème du film Armageddon, est interprétée par les Goo Goo Dolls.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 11,
+        "id": 55,
+        "question": "Le groupe ska The Mighty Mighty Bosstones joue dans le film d’ados Clueless.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 12,
+        "id": 56,
+        "question": "Johannes Kepler a découvert les trous noirs en 1630.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 12,
+        "id": 57,
+        "question": "Les premiers rayons X ont été inventés par erreur à la suite d’une mauvaise manipulation d’un appareil photo.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 12,
+        "id": 58,
+        "question": "Léonard de Vinci a découvert les anneaux de Saturne à l’aide d’une lunette astronomique qu’il avait inventée.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 12,
+        "id": 59,
+        "question": "Isaac Newton a marqué la physique avec sa célèbre formule E = mc².",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 12,
+        "id": 60,
+        "question": "Louis Pasteur a créé le premier vaccin.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    }
+]

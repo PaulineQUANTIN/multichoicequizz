@@ -1,0 +1,54 @@
+.categorie {
+    width: 20%;
+    border: 1px solid grey;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.animals {
+    background-color: #FCD000;
+}
+
+.history {
+    background-color: #F0AC18;
+}
+
+.geography {
+    background-color: #1FB03D;
+}
+
+.sports {
+    background-color: #7B39AD;
+}
+
+.cinema {
+    background-color: #00D1B2;
+}
+
+.sciences {
+    background-color: #EC3B30;
+}
+
+.arts {
+    background-color: #246FF8;
+}
+
+.french {
+    background-color: #E94EA1;
+}
+
+.categorie .title {
+    color: whitesmoke;
+}
+
+.fas {
+    color: white;
+}
+
+.fas:hover {
+    color: black;
+}

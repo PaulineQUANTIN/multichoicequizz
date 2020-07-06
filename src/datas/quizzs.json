@@ -1,0 +1,131 @@
+[
+    {
+        "quizzID": 1,
+        "title": "Les animaux du froid",
+        "slug": "les-animaux-du-froid",
+        "imgUrl": "https://pixabay.com/get/57e9d24a4e56a914f6d1867dda35367b1c3cdbe45451714a_1920.jpg",
+        "categorie_id": 1,
+        "icon": "far fa-snowflake"
+    },
+    {
+        "quizzID": 2,
+        "title": "Les félins",
+        "slug": "les-felins",
+        "imgUrl": "https://pixabay.com/get/55e2d6414c50b108feda8460da293277163adfe2535579_1920.jpg",
+        "categorie_id": 1,
+        "icon": "fas fa-cat"
+    },
+    {
+        "quizzID": 3,
+        "title": "Les animaux volants",
+        "slug": "les-animaux-volants",
+        "imgUrl": "https://pixabay.com/get/5ee2dd4a4e56b108feda8460da293277163adfe2535877_1920.jpg",
+        "categorie_id": 1,
+        "icon": "fas fa-dove"
+    },
+    {
+        "quizzID": 4,
+        "title": "Les chevaliers de la table ronde",
+        "slug": "les-chevaliers-de-la-table-ronde",
+        "imgUrl": "https://pixabay.com/get/50e3d5434b4fad00f5d89960c62d3e7d103ed9e75250_1920.jpg",
+        "categorie_id": 2,
+        "icon": "fas fa-shield-alt"
+    },
+    {
+        "quizzID": 5,
+        "title": "Les rois de France",
+        "slug": "les-rois-de-france",
+        "imgUrl": "https://pixabay.com/get/51e5dc414354b108feda8460da293277163adfe2505273_1920.jpg",
+        "categorie_id": 2,
+        "icon": "fas fa-crown"
+    },
+    {
+        "quizzID": 6,
+        "title": "Les pays d'Europe",
+        "slug": "les-pays-d-europe",
+        "imgUrl": "https://pixabay.com/get/57e2d3474a54ae14f6d1867dda35367b1c3cdbe45452774d_1920.jpg",
+        "categorie_id": 3,
+        "icon": "fas fa-globe-europe"
+    },
+    {
+        "quizzID": 7,
+        "title": "Les capitales américaines",
+        "slug": "les-capitales-americaines",
+        "imgUrl": "https://pixabay.com/get/57e1d14a425baa14f6d1867dda35367b1c3cdbe454557040_1920.jpg",
+        "categorie_id": 3,
+        "icon": "fas fa-flag-usa"
+    },
+    {
+        "quizzID": 8,
+        "title": "Les Jeux Olympiques d'hiver",
+        "slug": "jo-hiver",
+        "imgUrl": "https://pixabay.com/get/57e6d4404b52ad14f6d1867dda35367b1c3cdbe454557540_1920.jpg",
+        "categorie_id": 4,
+        "icon": "fas fa-skiing"
+    },
+    {
+        "quizzID": 9,
+        "title": "Les films Disney",
+        "slug": "films-disney",
+        "imgUrl": "https://pixabay.com/get/57e1dd464d57a814f6d1867dda35367b1c3cdbe45455784d_1920.jpg",
+        "categorie_id": 5,
+        "icon": "fas fa-film"
+    },
+    {
+        "quizzID": 10,
+        "title": "Le Bon, la Brute et le Truand",
+        "slug": "bon-brute-truand",
+        "imgUrl": "https://pixabay.com/get/57e0dd42435baa14f6d1867dda35367b1c3cdbe45454724a_1920.jpg",
+        "categorie_id": 5,
+        "icon": "fas fa-ticket-alt"
+    },
+    {
+        "quizzID": 11,
+        "title": "Les films des années 90",
+        "imgUrl": "https://pixabay.com/get/54e0d7474d56a914f6da8c7dda35367b1c3cdbe45a52794c_1280.png",
+        "categorie_id": 5,
+        "icon": "fas fa-film"
+    },
+    {
+        "quizzID": 12,
+        "title": "Les découvertes scientifiques",
+        "imgUrl": "https://pixabay.com/get/52e3d34b4b54aa14f6d1867dda35367b1c3cdbe454597048_1920.jpg",
+        "categorie_id": 6,
+        "icon": "fas fa-microscope"
+    },
+    {
+        "quizzID": 13,
+        "title": "Les fleurs",
+        "imgUrl": "https://pixabay.com/get/55e2d1424d57b108feda8460da293277163adfe25b5679_1920.jpg",
+        "categorie_id": 6,
+        "icon": "fas fa-seedling"
+    },
+    {
+        "quizzID": 14,
+        "title": "Les tableaux de maîtres",
+        "imgUrl": "https://pixabay.com/get/54e1d34b4d53ad14f6d1867dda35367b1c3cdbe45458724a_1920.jpg",
+        "categorie_id": 7,
+        "icon": "fas fa-palette"
+    },
+    {
+        "quizzID": 15,
+        "title": "La littérature",
+        "imgUrl": "https://pixabay.com/get/57e6d04a4d53ab14f6d1867dda35367b1c3cdbe45458794f_1920.jpg",
+        "categorie_id": 7,
+        "icon": "fas fa-book"
+    },
+    {
+        "quizzID": 16,
+        "title": "Les mots rigolos",
+        "imgUrl": "https://pixabay.com/get/52e0d4434a5aab14f6da8c7dda35367b1c3cdbe45b517749_1280.png",
+        "categorie_id": 8,
+        "icon": "fas fa-grin-tears"
+    },
+    {
+        "quizzID": 17,
+        "title": "Les expressions québécoises",
+        "imgUrl": "https://pixabay.com/get/54e8d0464f4fad0bffd89960c62d3e7d103ed6e45254_1280.png",
+        "categorie_id": 8,
+        "icon": "fab fa-canadian-maple-leaf"
+    }
+]
