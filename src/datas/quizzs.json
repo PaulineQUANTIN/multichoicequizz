@@ -102,14 +102,14 @@
     },
     {
         "quizzID": 14,
-        "title": "Les tableaux de maîtres",
+        "title": "Les grands peintres",
         "imgUrl": "https://pixabay.com/get/54e1d34b4d53ad14f6d1867dda35367b1c3cdbe45458724a_1920.jpg",
         "categorie_id": 7,
         "icon": "fas fa-palette"
     },
     {
         "quizzID": 15,
-        "title": "La littérature",
+        "title": "La littérature américaine",
         "imgUrl": "https://pixabay.com/get/57e6d04a4d53ab14f6d1867dda35367b1c3cdbe45458794f_1920.jpg",
         "categorie_id": 7,
         "icon": "fas fa-book"

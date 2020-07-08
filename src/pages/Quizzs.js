@@ -8,8 +8,8 @@ class Quizzs extends Component {
     state = {  }
     render() { 
 
-        let quizzsList = Quizz.map( quizz => {
-            return <Link className="categorie column is-one-third tile">
+        let quizzsList = Quizz.map( quizz => { 
+            return <Link className="quizz column is-one-third tile">
                 <h2 className="title is-3">{quizz.title}</h2>
                 <i className={quizz.icon}></i>
                 </Link>

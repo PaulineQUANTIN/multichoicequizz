@@ -41,14 +41,14 @@
     background-color: #E94EA1;
 }
 
-.categorie .title {
+.categorie .title{
     color: whitesmoke;
 }
 
-.fas {
+.catIcon {
     color: white;
 }
 
-.fas:hover {
+.catIcon:hover {
     color: black;
 }

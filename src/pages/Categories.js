@@ -5,14 +5,19 @@ import './Categories.css';
 
 class Categories extends Component {
     state = {  }
-    render() { 
 
+    handleClick = (e) => {
+        
+    }
+
+    render() { 
+        
         let catList = Categorie.map( categorie => {
-            let url = "/categories/" + categorie.slug;
-            let color = categorie.color;
-            return <Link to={url} key={categorie.id} className={color}>
+            let url = "/categorie/" + categorie.slug;
+            return <Link to={url} categorie={categorie} key={categorie.id} className={categorie.color}>
                 <h2 className="title is-3">{categorie.title}</h2>
-                <i className={categorie.icon}></i></Link>
+                <i className={categorie.icon}></i>
+                </Link>
         })
 
         console.log(Categorie.color)

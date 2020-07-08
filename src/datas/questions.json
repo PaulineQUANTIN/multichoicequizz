@@ -418,5 +418,180 @@
         "question": "Louis Pasteur a créé le premier vaccin.",
         "answers": ["vrai", "faux"],
         "answer": "faux"
+    },
+    {
+        "quizz-number": 13,
+        "id": 61,
+        "question": "La plus petite fleur au monde est aquatique.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 13,
+        "id": 62,
+        "question": "Au printemps, le désert de Namaqualand se couvre de fleurs pendant une courte période.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 13,
+        "id": 63,
+        "question": "Pour produire 1 kg de miel, les abeilles doivent butiner plus de 4 millions de fleurs.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 13,
+        "id": 64,
+        "question": "Il existe une orchidée nommée Dracula.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 13,
+        "id": 65,
+        "question": "Chaque année, les roses fleurissent avant les lilas.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 14,
+        "id": 66,
+        "question": "Le tableau La dame en blanc, de Whistler, a été refusé au Salon des refusés.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 14,
+        "id": 67,
+        "question": "La Naissance de Vénus est un tableau majeur de Sandro Botticelli.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 14,
+        "id": 68,
+        "question": "Salvador Dali a travaillé pour Walt Disney.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 14,
+        "id": 69,
+        "question": "Jan van Eyck a été grandement influencé par Michel-Ange.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 14,
+        "id": 70,
+        "question": "Auguste Renoir a peint Le Déjeuner sur l’herbe.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 15,
+        "id": 71,
+        "question": "Gatsby Le Magnifique de F. Scott Fitzgerald a été un flop du vivant de l’auteur.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 15,
+        "id": 72,
+        "question": "Dune de Frank Herbert a été le premier roman à remporter un prix Nebula.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 15,
+        "id": 73,
+        "question": "Il ne faut pas tirer sur l'oiseau moqueur est le seul roman écrit par Harper Lee.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 15,
+        "id": 74,
+        "question": "Le vrai nom de Mark Twain est Tom Hannibal Sawyer.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 15,
+        "id": 75,
+        "question": "Le chien de John Steinbeck a mangé le manuscrit de Of Mice and Men obligeant l’auteur à réécrire son roman du début.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 16,
+        "id": 76,
+        "question": "Panégyrique est le nom donné aux éléphants durant la Première Guerre punique (264 à 241 av. J.-C.).",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 16,
+        "id": 77,
+        "question": "On appelait ouistitis pontificaux les soldats du pape durant la guerre contre les troupes royales italiennes (1860-1871).",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 16,
+        "id": 78,
+        "question": "Le zinzolin est un instrument à vent, ancêtre du trombone.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 16,
+        "id": 79,
+        "question": "Les cœlacanthes sont un genre de poissons osseux marins primitifs.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 16,
+        "id": 80,
+        "question": "Les borborygmes sont les onomatopées dans les bandes dessinées.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 17,
+        "id": 81,
+        "question": "L’expression avoir des fonds de bouteille fait référence à de sérieux problèmes d’alcool.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 17,
+        "id": 82,
+        "question": "Être fou comme un balai est une expression ironique pour décrire une personne réservée, timide.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
+    },
+    {
+        "quizz-number": 17,
+        "id": 83,
+        "question": "Être gelé peut aussi vouloir dire « être sous l’influence de la drogue ».",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 17,
+        "id": 84,
+        "question": "Accrocher ses patins, c’est prendre sa retraite.",
+        "answers": ["vrai", "faux"],
+        "answer": "vrai"
+    },
+    {
+        "quizz-number": 17,
+        "id": 85,
+        "question": "S’enfarger dans les fleurs du tapis, c’est marcher délicatement sur la pointe des pieds.",
+        "answers": ["vrai", "faux"],
+        "answer": "faux"
     }
 ]
