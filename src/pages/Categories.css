@@ -14,14 +14,6 @@
 }
 
 .history {
-    background-color: #F0AC18;
-}
-
-.geography {
-    background-color: #1FB03D;
-}
-
-.sports {
     background-color: #7B39AD;
 }
 
@@ -30,7 +22,7 @@
 }
 
 .sciences {
-    background-color: #EC3B30;
+    background-color: #1FB03D;
 }
 
 .arts {
@@ -52,3 +44,11 @@
 .catIcon:hover {
     color: black;
 }
+/* 
+.cat {
+    border: 1px solid blue;
+} */
+
+/* .category {
+    border: 1px solid yellow;
+} */

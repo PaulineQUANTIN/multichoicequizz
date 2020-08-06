@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "5f292b6aa8077e1020f4d49e",
+        "title": "Animaux",
+        "slug": "animaux",
+        "icon": "catIcon fas fa-paw",
+        "color": "categorie column is-one-third tile animals",
+        "imgUrl": "assets/img/animaux.png"
+    },
+    {
+        "_id": "5f292b6aa8077e1020f4d49f",
+        "title": "Histoire",
+        "slug": "histoire",
+        "icon": "catIcon fas fa-landmark",
+        "color": "categorie column is-one-third tile history",
+        "imgUrl": "assets/img/histoire.png"
+    },
+    {
+        "_id": "5f292b6aa8077e1020f4d4a2",
+        "title": "Cinéma",
+        "slug": "cinema",
+        "icon": "catIcon fas fa-film",
+        "color": "categorie column is-one-third tile cinema",
+        "imgUrl": "assets/img/cinema.png"
+    },
+    {
+        "_id": "5f292b6aa8077e1020f4d4a3",
+        "title": "Sciences et technologies",
+        "slug": "sciences-technologies",
+        "icon": "catIcon fas fa-microscope",
+        "color": "categorie column is-one-third tile sciences",
+        "imgUrl": "assets/img/sciences.jpg"
+    },
+    {
+        "_id": "5f292b6aa8077e1020f4d4a4",
+        "title": "Arts",
+        "slug": "arts",
+        "icon": "catIcon fas fa-palette",
+        "color": "categorie column is-one-third tile arts",
+        "imgUrl": "assets/img/art.png"
+    },
+    {
+        "_id": "5f292b6aa8077e1020f4d4a5",
+        "title": "Langue française",
+        "slug": "french",
+        "icon": "catIcon fas fa-language",
+        "color": "categorie column is-one-third tile french",
+        "imgUrl": "assets/img/france.png"
+    }
+]

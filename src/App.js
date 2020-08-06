@@ -7,6 +7,9 @@ import Navbar from './components/Navbar'
 import Home from './pages/Home';
 import Categories from './pages/Categories';
 import Quizzs from './pages/Quizzs';
+import Question from './pages/Question';
+import Category from './pages/Category';
+import Quizz from './pages/Quizz';
 
 
 class App extends Component {
@@ -19,10 +22,9 @@ class App extends Component {
 
               <Route exact path="/" component={Home} />
               <Route exact path="/categories" component={Categories} />
-              <Route exact path="/categorie/:slug" component={Categories} />
-              <Route exact path="/categorie/:slug/quizz/:id" component={Categories} />
-              <Route path="/quizz/" component={Quizzs} />
-              <Route path="/quizz/:id" component={Quizzs} />
+              <Route path="/categories/:slug/" component={Category} />
+              <Route exact path="/quizz/" component={Quizzs} />
+              <Route path="/quizz/:slug" component={Quizz} />
           </Router>
         );
     }

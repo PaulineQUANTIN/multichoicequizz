@@ -1,0 +1,628 @@
+[
+      {
+          "title": "Les félins",
+          "slug": "les-felins",
+          "imgUrl": "https://pixabay.com/get/55e2d6414c50b108feda8460da293277163adfe2535579_1920.jpg",
+          "categorie_id": "5f292b6aa8077e1020f4d49e",
+          "icon": "fas fa-cat",
+          "questions": [
+            {
+              "title": "Les servals chassent en bandes extrêmement organisées.",
+              "answers": [
+                  {
+                      "answer": "Vrai",
+                      "correct": false
+                  },
+                  {
+                      "answer": "Faux",
+                      "correct": true
+                  }
+              ]
+            },
+            {
+                "title": "Un tigre adulte mange entre 1800 et 2500 kg de viande par an.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": true
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": false
+                    }
+                ]
+              },
+              {
+                "title": "Le lion est le seul félin à vivre en groupe.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": true
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": false
+                    }
+                ]
+              }                       
+          ]
+      },
+      {
+          "title": "Les chevaliers de la table ronde",
+          "slug": "les-chevaliers-de-la-table-ronde",
+          "imgUrl": "https://pixabay.com/get/50e3d5434b4fad00f5d89960c62d3e7d103ed9e75250_1920.jpg",
+          "categorie_id": "5f292b6aa8077e1020f4d49f",
+          "icon": "fas fa-shield-alt",
+          "questions": [
+            {
+              "title": "De quelle mythologie est issue la légende arthurienne ?",
+              "answers": [
+                  {
+                      "answer": "Mythologie balte",
+                      "correct": false
+                  },
+                  {
+                      "answer": "Mythologie celtique",
+                      "correct": true
+                  },
+                  {
+                      "answer": "Mythologie galloise",
+                      "correct": false
+                  },
+                  {
+                      "answer": "Mythologie normande",
+                      "correct": false
+                  }
+              ]
+            },
+            {
+                "title": "Quel était le but initial de ces chevaliers, regroupés autour de la Table ronde?",
+                "answers": [
+                    {
+                        "answer": "Protéger le roi",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Protéger le pays",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Retrouver Morgane et la tuer",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Retrouver le Saint Graal",
+                        "correct": true
+                    }
+                ]
+              },
+              {
+                "title": "Qui est le fils de Lancelot ?",
+                "answers": [
+                    {
+                        "answer": "Gauvin",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Galaad",
+                        "correct": true
+                    },
+                    {
+                        "answer": "Perceval",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Agravain",
+                        "correct": false
+                    }
+                ]
+              },
+              {
+                "title": "Quel ancien chevalier de la Table ronde serait l'opposé de Lancelot sur le plan des valeurs ?",
+                "answers": [
+                    {
+                        "answer": "Girflet",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Geraint",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Gaheris",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Méléagant",
+                        "correct": true
+                    }
+                ]
+              },
+              {
+                "title": "Qui est le fils d'Arthur et de Morgane, qui deviendra l'ennemi du roi ?",
+                "answers": [
+                    {
+                        "answer": "Yvain",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Mordred",
+                        "correct": true
+                    },
+                    {
+                        "answer": "Melehan",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Caradoc",
+                        "correct": false
+                    }
+                ]
+              }
+          ]
+      },
+      {
+          "title": "Les films Disney",
+          "slug": "films-disney",
+          "imgUrl": "https://pixabay.com/get/57e1dd464d57a814f6d1867dda35367b1c3cdbe45455784d_1920.jpg",
+          "categorie_id": "5f292b6aa8077e1020f4d4a2",
+          "icon": "fas fa-film",
+          "questions": [
+            {
+              "title": "Dans le film «La Belle et la Bête», l’apparence de la Bête se fonde sur celle d’un loup.",
+              "answers": [
+                  {
+                      "answer": "Vrai",
+                      "correct": false
+                  },
+                  {
+                      "answer": "Faux",
+                      "correct": true
+                  }
+              ]
+            },
+            {
+                "title": "Les Aristochats, un film sur des chats qui seront enlevés puis abandonnés par un majordome avide, se déroule à Londres.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": true
+                    }
+                ]
+              },
+              {
+                "title": "Avant la réalisation de «Cendrillon», Disney était lourdement endetté, mais le succès du conte de fées a sauvé le destin de l’entreprise.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": true
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": false
+                    }
+                ]
+              },
+              {
+                "title": "«Le Roi Lion», le dessin animé classique relatant les aventures de Simba, devait à l’origine s’appeler «Le Roi de la jungle».",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": true
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": false
+                    }
+                ]
+              }  ,
+              {
+                "title": "Dans le film «Mary Poppins», Walt Disney détestait la chanson «Feed the Birds».",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": true
+                    }
+                ]
+              }                    
+          ]
+      },
+      {
+          "title": "Le Bon, la Brute et le Truand",
+          "slug": "bon-brute-truand",
+          "imgUrl": "https://pixabay.com/get/57e0dd42435baa14f6d1867dda35367b1c3cdbe45454724a_1920.jpg",
+          "categorie_id": "5f292b6aa8077e1020f4d4a2",
+          "icon": "fas fa-ticket-alt",
+          "questions": [
+            {
+              "title": "Durant quelle guerre se déroule l'histoire ?",
+              "answers": [
+                  {
+                      "answer": "La Première Guerre mondiale",
+                      "correct": false
+                  },
+                  {
+                      "answer": "La guerre de Sécession",
+                      "correct": true
+                  },
+                  {
+                      "answer": "La guerre du Vietnam",
+                      "correct": false
+                  }
+              ]
+            },
+            {
+                "title": "Qui dit à Tuco dans quel cimetière sont cachés les 200 000 $ ?",
+                "answers": [
+                    {
+                        "answer": "Sentenza",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Blondin",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Bill Carson",
+                        "correct": true
+                    }
+                ]
+              },
+              {
+                "title": "Complétez cette phrase de Tuco : «Le monde se divise en deux parties...",
+                "answers": [
+                    {
+                        "answer": "Ceux qui ont un pistolet chargé et ceux qui creusent, et toi tu creuses",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Ceux qui ont de l'eau fraîche et ceux qui meurent, et toi tu meurs",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Ceux qui passent par la porte et ceux qui passent par la fenêtre",
+                        "correct": true
+                    }
+                ]
+              },
+              {
+                "title": "Qui a réalisé ce film ?",
+                "answers": [
+                    {
+                        "answer": "Quentin Tarantino",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Sergio Leone",
+                        "correct": true
+                    },
+                    {
+                        "answer": "Steven Spielberg",
+                        "correct": false
+                    }
+                ]
+              },
+              {
+                "title": "Qui a composé la bande originale du film ?",
+                "answers": [
+                    {
+                        "answer": "Ennio Morricone",
+                        "correct": true
+                    },
+                    {
+                        "answer": "John Williams",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Hans Zimmer",
+                        "correct": false
+                    }
+                ]
+              }
+          ]
+      },
+      {
+          "title": "Les films des années 90",
+          "slug": "films-90",
+          "imgUrl": "https://pixabay.com/get/54e0d7474d56a914f6da8c7dda35367b1c3cdbe45a52794c_1280.png",
+          "categorie_id": "5f292b6aa8077e1020f4d4a2",
+          "icon": "fas fa-film",
+          "questions": [
+            {
+              "title": "Le film «Maman, j'ai râté l'avion» se passe à New York.",
+              "answers": [
+                  {
+                      "answer": "Vrai",
+                      "correct": false
+                  },
+                  {
+                      "answer": "Faux",
+                      "correct": true
+                  }
+              ]
+            },
+            {
+                "title": "Les chanteuses Pat Benatar, Debbie Harry, Joan Jett, Madonna et Janet Jackson ont été considérées pour le rôle de Rachel dans The Bodyguard (1992).",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": true
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": false
+                    }
+                ]
+              },
+              {
+                "title": "C’est Tim Allen qui fait la voix du cowboy Woody dans Toy Story.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": true
+                    }
+                ]
+              },
+              {
+                "title": "I Don’t Wanna Miss a Thing, la chanson thème du film Armageddon, est interprétée par les Goo Goo Dolls.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": true
+                    }
+                ]
+              },
+              {
+                "title": "Le groupe ska The Mighty Mighty Bosstones joue dans le film d’ados Clueless.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": true
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": false
+                    }
+                ]
+              }
+          ]
+      },
+      {
+          "title": "Les découvertes scientifiques",
+          "slug": "découvertes-scienctifiques",
+          "imgUrl": "https://pixabay.com/get/52e3d34b4b54aa14f6d1867dda35367b1c3cdbe454597048_1920.jpg",
+          "categorie_id": "5f292b6aa8077e1020f4d4a3",
+          "icon": "fas fa-microscope",
+          "questions": [
+            {
+              "title": "Johannes Kepler a découvert les trous noirs en 1630.",
+              "answers": [
+                  {
+                      "answer": "Vrai",
+                      "correct": false
+                  },
+                  {
+                      "answer": "Faux",
+                      "correct": true
+                  }
+              ]
+            },
+            {
+                "title": "Les premiers rayons X ont été inventés par erreur à la suite d’une mauvaise manipulation d’un appareil photo.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": true
+                    }
+                ]
+              },
+              {
+                "title": "Léonard de Vinci a découvert les anneaux de Saturne à l’aide d’une lunette astronomique qu’il avait inventée.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": true
+                    }
+                ]
+              },
+              {
+                "title": "Isaac Newton a marqué la physique avec sa célèbre formule E = mc².",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": true
+                    }
+                ]
+              },
+              {
+                "title": "Louis Pasteur a créé le premier vaccin.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": true
+                    }
+                ]
+              }
+          ]
+      },
+      {
+          "title": "La littérature américaine",
+          "slug": "litterature-americaine",
+          "imgUrl": "https://pixabay.com/get/57e6d04a4d53ab14f6d1867dda35367b1c3cdbe45458794f_1920.jpg",
+          "categorie_id": "5f292b6aa8077e1020f4d4a4",
+          "icon": "fas fa-book",
+          "questions": [
+            {
+              "title": "Gatsby Le Magnifique de F. Scott Fitzgerald a été un flop du vivant de l’auteur.",
+              "answers": [
+                  {
+                      "answer": "Vrai",
+                      "correct": true
+                  },
+                  {
+                      "answer": "Faux",
+                      "correct": false
+                  }
+              ]
+            },
+            {
+                "title": "Dune de Frank Herbert a été le premier roman à remporter un prix Nebula.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": true
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": false
+                    }
+                ]
+              },
+              {
+                "title": "Il ne faut pas tirer sur l'oiseau moqueur est le seul roman écrit par Harper Lee.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": true
+                    }
+                ]
+              },
+              {
+                "title": "Le vrai nom de Mark Twain est Tom Hannibal Sawyer.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": true
+                    }
+                ]
+              },
+              {
+                "title": "Le chien de John Steinbeck a mangé le manuscrit de Of Mice and Men obligeant l’auteur à réécrire son roman du début.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": true
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": false
+                    }
+                ]
+              }
+          ]
+      },
+      {
+          "title": "Les mots rigolos",
+          "slug": "mots-rigolos",
+          "imgUrl": "https://pixabay.com/get/52e0d4434a5aab14f6da8c7dda35367b1c3cdbe45b517749_1280.png",
+          "categorie_id": "5f292b6aa8077e1020f4d4a5",
+          "icon": "fas fa-grin-tears",
+          "questions": [
+            {
+              "title": "Panégyrique est le nom donné aux éléphants durant la Première Guerre punique (264 à 241 av. J.-C.).",
+              "answers": [
+                  {
+                      "answer": "Vrai",
+                      "correct": false
+                  },
+                  {
+                      "answer": "Faux",
+                      "correct": true
+                  }
+              ]
+            },
+            {
+                "title": "On appelait ouistitis pontificaux les soldats du pape durant la guerre contre les troupes royales italiennes (1860-1871).",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": true
+                    }
+                ]
+              },
+              {
+                "title": "Le zinzolin est un instrument à vent, ancêtre du trombone.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": true
+                    }
+                ]
+              },
+              {
+                "title": "Les cœlacanthes sont un genre de poissons osseux marins primitifs.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": true
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": false
+                    }
+                ]
+              },
+              {
+                "title": "Les borborygmes sont les onomatopées dans les bandes dessinées.",
+                "answers": [
+                    {
+                        "answer": "Vrai",
+                        "correct": false
+                    },
+                    {
+                        "answer": "Faux",
+                        "correct": true
+                    }
+                ]
+              }
+          ]
+      }
+  ]
